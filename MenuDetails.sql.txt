@@ -1,0 +1,42 @@
+Table For Menu Details
+
+RefNum - Unique Value for Each Menu
+Menu Name - Name of Manu entered By user
+Menu Description - Entered by user
+is_CriteriaPage - Y if selected N if Not Selected.
+is_DetailPage - Y if selected N if Not Selected.
+is_ResultPage - Y if selected N if Not Selected.
+RCRE_USER_ID
+RCRE_TIME
+LCHG_USER_ID
+LCHG_TIME
+BANK_ID
+
+Combination of Menu name and Bank id should be unique.
+
+Table For Criteria Page
+
+RefNum - Unique Value for Each Menu
+Menu Name - Name of Manu entered By user
+Field_Label
+Field_type
+Field_name
+RCRE_USER_ID
+RCRE_TIME
+LCHG_USER_ID
+LCHG_TIME
+BANK_ID
+
+Table For Details  Page
+
+RefNum - Unique Value for Each Menu
+Menu Name - Name of Manu entered By user
+Field_Label
+Field_type
+Field_name
+RCRE_USER_ID
+RCRE_TIME
+LCHG_USER_ID
+LCHG_TIME
+BANK_ID
+
